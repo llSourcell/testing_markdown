@@ -1,25 +1,18 @@
 # testing
 
 
-#####Siraj:
->Hi everyone, welcome to the Stack Share Tech Stack Podcast. I’m your host Siraj and I have with me the Stack Share CEO Yonas. In this episode we sat down with Jatinder Singh directory of engineering at HotelTonight. One of the world’s largest hotel apps with over fourteen million downloads. We talked about how engineers contribute new ideas, their iOS and Android teams, the first version of HotelTonight hint, it wasn’t native.
-
-
-
-
-How they introduced global caching via Fastly and reduced the number of servers by 4x, how they run tests in containers, building a schemaless append only store on top of MySQL based on FriendFeed and Uber’s implementation plus much more. How are you doing today how’s life?
-
+Siraj:
+>Hi everyone, welcome to the Stack Share Tech Stack Podcast. I’m your host Siraj and I have with me the Stack Share CEO Yonas. In this episode we sat down with Jatinder Singh directory of engineering at HotelTonight. One of the world’s largest hotel apps with over fourteen million downloads. We talked about how engineers contribute new ideas, their iOS and Android teams, the first version of HotelTonight hint, it wasn’t native. How they introduced global caching via Fastly and reduced the number of servers by 4x, how they run tests in containers, building a schemaless append only store on top of MySQL based on FriendFeed and Uber’s implementation plus much more. How are you doing today how’s life?
 
 Jatinder:
-Doing great, couldn’t be better just as the quarter is beginning a lot of things at HotelTonight that we are looking to get into, it couldn’t be better.
-
+>Doing great, couldn’t be better just as the quarter is beginning a lot of things at HotelTonight that we are looking to get into, it couldn’t be better.
 
 Siraj:
-Awesome, do you have a routine you do every day in terms of waking up and just getting in the mood?
+>Awesome, do you have a routine you do every day in terms of waking up and just getting in the mood?
 
 
 Jatinder:
-Absolutely, I live in South Bay that’s roughly about an hour and fifteen minutes’ commute every day.
+>Absolutely, I live in South Bay that’s roughly about an hour and fifteen minutes’ commute every day.
 
 
 Siraj:
