@@ -1,10 +1,10 @@
 #FlexPort Interview
 
 Siraj:
-Hi, everyone. Welcome to the StackShare Tech Stack Podcast. I'm your host Siraj and I have with the me the StackShare CEO, Yonas. In this episode, we sat down with Desmond Brand an engineering manager, Amos Elliston the CTO, and Evie Gilly another engineering manager at FlexPort; the worlds largest freight forwarding logistics software provider. We talked about how FlexPort first started, and what the MVP looked like. We also talked about all of the issues they faced when it comes to logistics and dealing with multiple very large clients.
+>Hi, everyone. Welcome to the StackShare Tech Stack Podcast. I'm your host Siraj and I have with the me the StackShare CEO, Yonas. In this episode, we sat down with Desmond Brand an engineering manager, Amos Elliston the CTO, and Evie Gilly another engineering manager at FlexPort; the worlds largest freight forwarding logistics software provider. We talked about how FlexPort first started, and what the MVP looked like. We also talked about all of the issues they faced when it comes to logistics and dealing with multiple very large clients.
 
 
-We dove into how their Tech Stack filters out the unnecessary data and helps the team provide the most sufficient transit data when they need it. Desmond is an expert in React, so we talked about that for a bit. Then we talked about how engineering ideas are surfaced and later implemented on the team.
+>We dove into how their Tech Stack filters out the unnecessary data and helps the team provide the most sufficient transit data when they need it. Desmond is an expert in React, so we talked about that for a bit. Then we talked about how engineering ideas are surfaced and later implemented on the team.
 
 Amos :
 Hi I'm Amos Elliston. I am the CTO of FlexPort.
